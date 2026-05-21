@@ -1,4 +1,4 @@
-# VanityNumber
+# Amazon Connect Vanity Number Generator
 Customer will dial the number given in the screenshot below
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/1267014/116874924-87684800-ac33-11eb-9837-4e89865743eb.png)
  After dialing the phone number Customer will able to hear the 3 possible vanity numbers against his/her number.
